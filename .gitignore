@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Package lock files
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+# .env
+# .env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+actions-runner/
